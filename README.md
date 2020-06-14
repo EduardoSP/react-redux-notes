@@ -45,7 +45,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # react-redux-notes
 
 
-video Using React Redux With Typescript - Making a Notes Application
+###video Using React Redux With Typescript - Making a Notes Application
 https://www.youtube.com/watch?v=WpvIihorarA
 
 ###create project
