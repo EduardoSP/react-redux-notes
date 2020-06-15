@@ -53,3 +53,6 @@ npx create-react-app --template typescript react-redux-typescript-notes
 
 npm install redux react-redux
 npm add @types/react-redux
+
+### Reducers 
+https://es.redux.js.org/docs/api/combine-reducers.html
